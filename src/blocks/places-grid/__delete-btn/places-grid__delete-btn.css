@@ -1,0 +1,17 @@
+.places-grid__delete-btn {
+  position: absolute;
+  background-image: url(../../../images/delete-button.svg);
+  width: 18px;
+  height: 20px;
+  background-repeat: no-repeat;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  top: 18px;
+  right: 15px;
+  transition: opacity linear 0.15s;
+}
+
+.places-grid__delete-btn:hover {
+  opacity: 0.6;
+}

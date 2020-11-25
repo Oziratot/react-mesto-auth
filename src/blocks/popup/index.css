@@ -1,0 +1,12 @@
+@import url(./popup.css);
+@import url(./__container/popup__container.css);
+@import url(./__close-btn/popup__close-btn.css);
+@import url(./_opened/popup_opened.css);
+@import url(./__text/popup__text.css);
+@import url(./__input/popup__input.css);
+@import url(./__save-btn/popup__save-btn.css);
+@import url(./__image-container/popup__image-container.css);
+@import url(./__full-image/popup__full-image.css);
+@import url(./__image-title/popup__image-title.css);
+@import url(./__field/popup__field.css);
+@import url(./_opened/popup_opened.css);

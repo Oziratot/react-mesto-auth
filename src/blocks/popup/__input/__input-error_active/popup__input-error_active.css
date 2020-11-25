@@ -1,0 +1,16 @@
+.popup__input-error_active {
+  color: red;
+  font-size: 12px;
+  line-height: 15px;
+  font-weight: normal;
+  position: absolute;
+  top: calc(100% + 5px);
+}
+
+@media screen and (max-width: 621px) {
+  .popup__input-error_active {
+    font-size: 8px;
+    line-height: 10px;
+  }
+}
+

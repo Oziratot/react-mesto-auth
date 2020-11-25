@@ -1,0 +1,19 @@
+.places-grid__like-btn {
+  background-image: url(../../../images/like-button.svg);
+  width: 20px;
+  height: 18px;
+  padding-right: 15px;
+  background-repeat: no-repeat;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  transition: opacity 0.15s linear;
+}
+
+.places-grid__like-btn:hover {
+  opacity: 0.6;
+}
+
+.places-grid__like-btn_active {
+  background-image: url(../../../images/like-button-filled.svg);
+}

@@ -1,0 +1,24 @@
+@import url(./__logo/header__logo.css);
+
+.header {
+  max-width: 882px;
+  margin: 0 auto;
+  padding-top: 45px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border-bottom: 1px solid rgba(84, 84, 94, 0.7);
+}
+
+@media screen and (min-width: 622px) and (max-width: 1023px) {
+  .header {
+    max-width: 582px;
+  }
+}
+
+@media screen and (max-width: 621px) {
+  .header {
+    max-width: 100%;
+    padding-top: 28px;
+  }
+}
