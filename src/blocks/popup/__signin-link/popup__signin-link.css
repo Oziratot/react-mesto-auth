@@ -1,0 +1,11 @@
+.popup__signin-link {
+    text-decoration: none;
+    color: white;
+    margin: 0;
+    transition: opacity 0.15s linear;
+}
+
+.popup__signin-link:hover {
+    opacity: 0.6;
+}
+

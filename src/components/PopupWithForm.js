@@ -12,7 +12,7 @@ function PopupWithForm({ name, isOpen, onClose, title, children, submitButtonTex
                             className="popup__close-btn" 
                             onClick={onClose}></button>
 
-                    <p className="popup__text">{title}</p>
+                    <p className={`popup__text popup__text_type_${name}`}>{title}</p>
                     {children}
                     <button type="submit" className="popup__save-btn">{submitButtonText}</button>
             </form>

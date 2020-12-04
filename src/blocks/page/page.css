@@ -9,4 +9,5 @@
   text-rendering: optimizeLegibility;
   margin: 0 auto;
   min-width: 300px;
+  min-height: 100vh;
 }

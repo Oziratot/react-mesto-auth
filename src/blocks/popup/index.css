@@ -10,3 +10,9 @@
 @import url(./__image-title/popup__image-title.css);
 @import url(./__field/popup__field.css);
 @import url(./_opened/popup_opened.css);
+@import url(./__signin/popup__signin.css);
+@import url(./__undertext/popup__undertext.css);
+@import url(./__signin-link/popup__signin-link.css);
+@import url(./__container/_type/popup__container_type_infotooltip.css);
+@import url(./__image-infotooltip/popup__image-infotooltip.css);
+@import url(./__text/_type/popup__text_type_infotooltip.css);
