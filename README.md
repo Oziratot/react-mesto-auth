@@ -10,3 +10,5 @@
 
 `npm run start` — запускает сервер   
 `npm run dev` — запускает сервер с hot-reload
+
+Посмотреть проект можно здесь: https://oziratot.github.io/mesto-react
